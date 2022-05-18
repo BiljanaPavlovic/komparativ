@@ -12,7 +12,11 @@ export default function Contact() {
       <Container>
         <Row>
           <Col>
-            <img src="img/contact.jpg" alt="telefon" className="contact-img" />
+            <img
+              src="/komparativ/img/contact.jpg"
+              alt="telefon"
+              className="contact-img"
+            />
           </Col>
           <Col>
             <div className="kontakt-podaci">

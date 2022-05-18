@@ -13,7 +13,7 @@ export default function Header() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="img/slajder/prva.jpg"
+            src="/komparativ/img/slajder/prva.jpg"
             alt="First slide"
           />
           <Carousel.Caption>
@@ -24,7 +24,7 @@ export default function Header() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="img/slajder/druga.jpg"
+            src="/komparativ/img/slajder/druga.jpg"
             alt="Second slide"
           />
 
@@ -36,7 +36,7 @@ export default function Header() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="img/slajder/treca.jpg"
+            src="/komparativ/img/slajder/treca.jpg"
             alt="Third slide"
           />
 

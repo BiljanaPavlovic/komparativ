@@ -13,7 +13,7 @@ export default function Services() {
         <Row>
           <Col>
             <img
-              src="/img/procene.jpg"
+              src="/komparativ/img/procene.jpg"
               alt="procena"
               className="services-img"
             />
@@ -30,7 +30,7 @@ export default function Services() {
           </Col>
           <Col>
             <img
-              src="/img/consulting.jpg"
+              src="/komparativ/img/consulting.jpg"
               alt="consulting"
               className="services-img"
             />
@@ -47,7 +47,7 @@ export default function Services() {
           </Col>
           <Col>
             <img
-              src="/img/poljoprivreda.jpg"
+              src="/komparativ/img/poljoprivreda.jpg"
               alt="poljoprivreda"
               className="services-img"
             />
