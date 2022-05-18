@@ -36,5 +36,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "homepage": "https://biljanapavlovic.github.io/komparativ/",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }

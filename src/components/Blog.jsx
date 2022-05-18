@@ -14,7 +14,7 @@ export default function Blog() {
           <Col>
             {" "}
             <img
-              src="img/blog/prva.jpg"
+              src="/komparativ/img/blog/prva.jpg"
               alt="neka slika"
               className="blog-img"
             />
@@ -32,7 +32,7 @@ export default function Blog() {
           <Col>
             {" "}
             <img
-              src="img/blog/druga.jpg"
+              src="/komparativ/img/blog/druga.jpg"
               alt="neka slika"
               className="blog-img"
             />
@@ -50,7 +50,7 @@ export default function Blog() {
           <Col>
             {" "}
             <img
-              src="img/blog/treca.jpg"
+              src="/komparativ/img/blog/treca.jpg"
               alt="neka slika"
               className="blog-img"
             />

@@ -52,7 +52,7 @@ export default function Header() {
         <Row>
           <Col>
             <img
-              src="img/header/team.jpg"
+              src="/komparativ/img/header/team.jpg"
               alt="o nama"
               className="header-img"
             />
@@ -60,14 +60,18 @@ export default function Header() {
           </Col>
           <Col>
             <img
-              src="img/header/services.jpg"
+              src="/komparativ/img/header/services.jpg"
               alt="usluge"
               className="header-img"
             />
             <h3>Usluge</h3>
           </Col>
           <Col>
-            <img src="img/header/blog.jpg" alt="blog" className="header-img" />
+            <img
+              src="/komparativ/img/header/blog.jpg"
+              alt="blog"
+              className="header-img"
+            />
             <h3>Blog</h3>
           </Col>
         </Row>
