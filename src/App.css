@@ -25,12 +25,12 @@ h3 {
 }
 .services-img {
   width: 20vw;
-  height: 35vh;
+  /*height: 35vh;*/
   border-radius: 50px;
 }
 .blog-img {
   width: 20vw;
-  height: 35vh;
+  /*height: 35vh;*/
 }
 .header-img {
   margin: 5vh;
@@ -53,5 +53,23 @@ h3 {
   body {
     display: grid;
     grid-column: auto;
+  }
+
+  .header-img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .blog-img {
+    height: 200px;
+    width: 200px;
+  }
+  .services-img {
+    height: 200px;
+    width: 200px;
+  }
+  .contact-img {
+    height: 200px;
+    width: 200px;
   }
 }
